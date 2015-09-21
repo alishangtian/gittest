@@ -1,3 +1,6 @@
 ##这是一个全局文件
 var version=dev
 var tag=dev_101
+
+var branch=dev
+var timestape=before bug1
