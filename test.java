@@ -2,10 +2,13 @@ this is a java class
 
 add someting
 
-这是为了修改bug1而添加的代码
+modify by root2
 
 modify on dev branch
 
 modify on dev branch second time
 
-modify on master branch
+添加这句话是为了在dev提交
+
+nodify by root1 on dev branch
+
